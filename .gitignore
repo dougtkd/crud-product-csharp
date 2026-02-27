@@ -1,0 +1,21 @@
+# Diretórios de build
+bin/
+obj/
+
+# Arquivos de usuário/IDE
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
