@@ -1,21 +1,26 @@
-# Diretórios de build
+# Build
 bin/
 obj/
 
-# Arquivos de usuário/IDE
+# IDE
 *.user
 *.rsuser
 *.suo
 *.userosscache
 *.sln.docstates
-
-# VS Code
 .vscode/
+.idea/
 
-# Logs
+# Logs e temporários
 *.log
-
-# Arquivos temporários
 *.tmp
 *.bak
 *.swp
+
+# Pacotes
+packages/
+*.nupkg
+
+# Testes
+TestResults/
+*.coverage
